@@ -5,8 +5,9 @@ branch a
 4
 5 aaaaaaa
 
-6
+6 bbbbbbb
 7
 8
+branch b
 9
 
